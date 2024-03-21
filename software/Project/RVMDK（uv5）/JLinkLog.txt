@@ -1,0 +1,26 @@
+T39DC 000:251.674   SEGGER J-Link V7.22b Log File
+T39DC 000:252.712   DLL Compiled: Jun 17 2021 17:22:49
+T39DC 000:252.727   Logging started @ 2022-04-17 14:21
+T39DC 000:252.741 - 252.748ms
+T39DC 000:253.061 JLINK_SetWarnOutHandler(...)
+T39DC 000:253.378 - 0.335ms
+T39DC 000:253.412 JLINK_OpenEx(...)
+T39DC 000:259.756   Looking for J-Link GUI Server exe at: C:\Keil_v5\ARM\Segger\JLinkGUIServer.exe
+T39DC 000:260.030   Looking for J-Link GUI Server exe at: \JLinkGUIServer.exe
+T39DC 000:559.915   Failed to connect to J-Link GUI Server.
+T39DC 002:445.055   
+  ***** Error: 
+T39DC 002:445.119   Cannot connect to J-Link
+T39DC 002:454.973 - 2201.585ms returns "Cannot connect to J-Link"
+T39DC 002:455.637 
+  ***** 
+T39DC 002:455.669 API Error: API JLINK_GetHardwareVersion function called before JLINKARM_Open()
+T39DC 002:455.694 JLINK_GetHardwareVersion()
+T39DC 002:457.273   Looking for J-Link GUI Server exe at: C:\Keil_v5\ARM\Segger\JLinkGUIServer.exe
+T39DC 002:457.439   Looking for J-Link GUI Server exe at: \JLinkGUIServer.exe
+T39DC 002:757.821   Failed to connect to J-Link GUI Server.
+T39DC 004:215.525 - 1759.860ms
+T39DC 005:045.779 JLINK_Close()
+T39DC 005:053.712 - 7.958ms
+T39DC 005:053.747   
+T39DC 005:053.762   Closed
